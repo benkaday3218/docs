@@ -4,7 +4,7 @@ intro: Organization owners can block a user to remove the user's ability to coll
 redirect_from:
   - /articles/blocking-a-user-from-your-organization
 versions:
-  free-pro-team: '*'
+  free-pro-team: '* 
 ---
 
 You can block a user from within your organization's settings or from a specific comment made by the user. When you block a user in a comment, you can choose to send the user a notification explaining that they were blocked and why. Otherwise, the user is not directly notified that you've blocked them. Blocked users can still delete their existing content.
@@ -70,3 +70,4 @@ In your organization's repositories, blocked users also cannot:
 - "[Blocking a user from your personal account](/articles/blocking-a-user-from-your-personal-account)"
 - "[Unblocking a user from your personal account](/articles/unblocking-a-user-from-your-personal-account)"
 - "[Reporting abuse or spam](/articles/reporting-abuse-or-spam)"
+ 
